@@ -1,0 +1,159 @@
+/*
+      
+      Original files by Keith Donegan Code-Sucks.com
+	  
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    background: url(back.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; }
+   
+   body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+   }
+   #wrapper { 
+    width: 75%;
+    height: 95%;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    min-width: 975px;
+    max-width: 975px;
+    min-height: 350px;
+    max-height: 975px;
+   }
+   #navigation {
+    float: left;
+    width: 975px;
+    color: #333;
+    padding: 10px;
+    margin: 0px 0px 5px 0px;
+   }
+   #leftcolumn { 
+    margin: 0px 5px 5px 0px;
+    padding: 0px;
+    height: 355px;
+    width: 320px;
+    float: left;
+   }
+   #leftmiddle { 
+    margin: 0px 5px 5px 0px;
+    padding: 0px;
+    height: 355px;
+    width: 320px;
+    float: left;
+   }
+   #rightmiddle { 
+    margin: 0px 5px 5px 0px;
+    padding: 0px;
+    height: 355px;
+    width: 320px;
+    float: left;
+   }
+   .background {
+    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, .5);
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+   }
+   .borders {
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+   }
+   .alpha {
+    display: block;
+    -moz-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #21323d;
+    color: #fff;
+   }
+   .search {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #fff;
+    font-weight: bold;
+    border:none;
+   }
+   fieldset{
+    border:none;
+    margin: 5px 0;
+   }
+   .beta {
+    display: block;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #21323d;
+    color: #fff;
+   }
+   .gamma {
+    display: block;
+    -moz-border-radius: 0 5px 5px 0;
+    border-radius: 0 5px 5px 0;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #21323d;
+    color: #fff;
+   }
+   .delta {
+    display: block;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #fff;
+   }
+   .front {
+    display: block;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #fff;
+   }
+   .echo {
+    display: block;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    background: #21323d;
+    color: #fff;
+   }
+   .blue {
+    background: #5ebef1;
+   }
+   
+   a:link, a:visited, a:hover, a:active {
+    color: #000;
+    text-decoration:none;
+    background: #fff;
+   }
+   .circular {
+    width: 225px;
+    height: 100px;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px; /* 0px 0px 5px 5px */
+    background: url(logo.jpg) no-repeat;
+    margin: 0px 0px 5px;
+   }
