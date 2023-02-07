@@ -24,7 +24,7 @@ Author URI: http://stiankarlsen.com/
 		 <div id="leftcolumn" class="borders">
 		 
 		       <!--<div class="circular"></div>-->
-		       <p class="alpha">Certification2</p>
+		       <p class="alpha">Certification</p>
 		       <p class="delta"><a href="https://learn.microsoft.com/nb-no/" target="_blank" rel="noopener noreferrer">Microsoft Learn</a></p>
 			   <p class="delta"><a href="https://wsr.pearsonvue.com/testtaker/registration/Dashboard/MICROSOFT" target="_blank" rel="noopener noreferrer">PearsonVue Dashboard</a></p>
 			   <p class="delta"><a href="https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/" target="_blank" rel="noopener noreferrer">PL-900</a></p>
